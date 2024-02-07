@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>React Refresher</title>
+    <title>Next.js 14 Learnings</title>
 </head>
 <body>
-    <h1>React Refresher</h1>
-    <p>Welcome to React Refresher! This is a <a href="https://reactjs.org/">React</a> application</p>
+    <h1>Next.js 14 Learnings</h1>
+    <p>Welcome to Next.js 14 Learnings!
     <h2>Getting Started</h2>
     <h3>Prerequisites</h3>
     <ul>
@@ -30,7 +30,7 @@
     <pre><code>npm run dev</code></pre>
     <p>or</p>
     <pre><code>yarn dev</code></pre>
-    <p>Open <a href="http://localhost:5173">http://localhost:5173</a> in your browser to view the application.</p>
+    <p>Open <a href="http://localhost:3000">http://localhost:3000</a> in your browser to view the application.</p>
     <h3>Building for Production</h3>
     <p>To build the application for production, run:</p>
     <pre><code>npm run build</code></pre>
